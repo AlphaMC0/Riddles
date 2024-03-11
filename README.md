@@ -6,7 +6,9 @@
    A = 6
 3. Calculate the opposite side of a right triangle where the hypotenuse is 8 and the opposite side is 6
    B = 7
+   
 **Part 2**
+
 1. If there are three apples and you take away two, how many apples do you have?
    Answer = 2
 2. If you multiply this number by any other number, the answer will always be the same. What number is this?
@@ -21,7 +23,9 @@
    Answer = 1
 5. If there are four sheep, two dogs and one herds-men, how many feet are there?
    Answer = 2
+   
 **Part 3**
+
 1. The eight of us go forth not back to protect our king from a foes attack.
    Answer = 8
 2. Which letter of the alphabet has the most water?
