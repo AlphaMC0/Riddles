@@ -30,4 +30,10 @@
    Answer = 8
 2. Which letter of the alphabet has the most water?
    Answer = 3 , Because the C has the most water and C is the third letter of the alphabet
-3. 
+3. If you’re running in a race and you pass the person in second place, what place are you in?
+   Answer =  2 , Second place
+4. Mary has four daughters, and each of her daughters has a brother. How many children does Mary have?
+   Answer = 5 , Five—each daughter has the same brother.
+5. If 2 is company and 3 is a crowd, what are 4 and 5?
+   Answer = 9 , This is based on a quote from James Thurber “Two is company, four is a party, three is a crowd. One is a wanderer.” and 4 + 5 = 9
+
