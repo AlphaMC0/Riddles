@@ -37,3 +37,4 @@
 5. If 2 is company and 3 is a crowd, what are 4 and 5?
    Answer = 9 , This is based on a quote from James Thurber “Two is company, four is a party, three is a crowd. One is a wanderer.” and 4 + 5 = 9
 
+There are 3 parts to the code each number will be chosen by the game based on the problems/riddles written above. The game will choose from 3 problems/riddles for each number so there will be 27 possible codes. The code is comprised of 3 numbers.
